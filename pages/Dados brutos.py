@@ -1,5 +1,4 @@
 #O nome desse arquivo será o nome da página que será inserida no aplicativo
-from operator import index
 import streamlit as st
 import requests
 import pandas as pd
